@@ -487,11 +487,10 @@ body{
 
 .lastNewOne{
     display: flex;
-    margin: auto;
+    margin: 10px;
 }
 
 .lastNewOne p{
-    display: flex;
     text-align: justify;
 }
 
@@ -546,13 +545,11 @@ body{
 }
 
 .gridFooter .gridFooterContainer .navBarFooter h2{
-    display: flex;
     justify-content: center;
     margin-top: 10px;
     font-size: 20px;
 }
 .gridFooter .gridFooterContainer .navBarFooter .navLinksFooter{
-    display: flex;
     justify-content: center;
     flex-direction: column;
 }
@@ -733,7 +730,6 @@ body{
 }
 
 .lastNewOne p{
-    display: flex;
     text-align: justify;
 }
 
@@ -1150,14 +1146,12 @@ body{
 }
 
 .gridFooter .gridFooterContainer .navBarFooter h2{
-    display: flex;
     justify-content: center;
     margin-top: 10px;
     font-size: 20px;
     text-align: center;
 }
 .gridFooter .gridFooterContainer .navBarFooter .navLinksFooter{
-    display: flex;
     justify-content: center;
     flex-direction: column;
     text-align: center;
